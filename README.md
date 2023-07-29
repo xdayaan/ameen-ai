@@ -25,8 +25,6 @@ Usage
 Open the chat interface in your preferred web browser.
 Type your queries and enjoy engaging with Ameen AI.
 For code interactions, enclose code snippets within triple backticks (```).
-Contributing
-We welcome contributions to enhance Ameen AI's capabilities. To contribute, please follow the guidelines outlined in CONTRIBUTING.md.
 
 License
 Ameen AI is licensed under the MIT License.
